@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #fdf6e3;
+  background-color: #fff7e6;
   padding: 2rem;
   color: #333;
 }
@@ -15,25 +15,23 @@ input[type="text"] {
   width: 60%;
   padding: 0.5rem;
   margin: 1rem 0;
-}
-
-.radio-buttons {
-  margin: 1rem 0;
+  font-size: 1rem;
 }
 
 button {
   padding: 0.6rem 1.2rem;
-  background-color: #00bcd4;
+  background-color: #ff9800;
   color: white;
   border: none;
+  font-size: 1rem;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #008c9e;
+  background-color: #e67e00;
 }
 
 #story {
   margin-top: 2rem;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
